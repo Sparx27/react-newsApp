@@ -1,1 +1,1 @@
-#React news app with MUI
+# React news app with MUI
