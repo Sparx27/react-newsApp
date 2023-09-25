@@ -1,0 +1,4 @@
+Powered by News API
+MUI (Material UI)
+Pagination
+Context API
